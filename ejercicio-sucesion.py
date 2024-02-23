@@ -1,3 +1,5 @@
+#Escribe un programa en python que genere la sucesión para k igual a n
+#Autor: Enrique Vidó
 k = int(input("Introduce los términos de la sucesión que deseas ver: "))
 
 for i in range(1, k+1):
