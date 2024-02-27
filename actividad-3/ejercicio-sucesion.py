@@ -8,4 +8,4 @@ for i in range(1, k+1):
     if i < k:
         print (f"{numerador}/{denominador},", end=" ")
     else:
-        print (f"{numerador}/{denominador}...", end=" ")
+        print (f"{numerador}/{denominador}...")
